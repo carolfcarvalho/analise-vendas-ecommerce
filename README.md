@@ -2,7 +2,7 @@
 Projeto de análise exploratória de vendas de e-commerce utilizando Excel.
 
 
-## **Análise de Vendas de E-commerce**
+## 📊 **Análise de Vendas de E-commerce**
 
 **Sobre o Projeto**
 
@@ -57,19 +57,28 @@ Criação de gráficos para análise.
 
 **Furniture (Móveis)** apresentou o maior lucro acumulado da base analisada.
 
+![Lucro por Categoria](1lucro_categoria.png)
+
 🌎 **Região mais lucrativa**
 
 **North (Norte)** apresentou o maior lucro acumulado entre todas as regiões.
+
+![Lucro por Região](2lucro_regiao.png)
+
 
 💰 **Categoria com maior faturamento**
 
 **Home Decor (Decoração de casa)** apresentou o maior faturamento total da base.
 
-🎯 **Insight de negócio**
+![Faturamento por Categoria](3lucro_faturamento.png)
+
+
+
+## 🎯 **Insight de negócio**
 
 Embora Home Decor tenha apresentado o maior faturamento, Furniture foi a categoria mais lucrativa, demonstrando que faturamento e lucro não necessariamente possuem a mesma liderança.
 
-## **Aprendizados**
+## 📚 **Aprendizados**
 
 Este foi meu primeiro projeto de análise de dados.
 
